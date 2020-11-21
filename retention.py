@@ -45,3 +45,4 @@ now = time.time()
 remove_log_dir(log_dir_path, log_period, now)
 remove_csv_file(csv_file_path, csv_period, now)
 
+
